@@ -1,4 +1,3 @@
 ann
 amy
-john
 L
